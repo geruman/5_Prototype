@@ -1,4 +1,4 @@
-package com;
+package com.geruman.tests;
 
 import static org.junit.jupiter.api.Assertions.*;
 

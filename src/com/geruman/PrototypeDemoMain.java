@@ -1,4 +1,6 @@
-package com.geruman.prototypes;
+package com.geruman;
+
+import com.geruman.prototypes.Oveja;
 
 public class PrototypeDemoMain {
 
